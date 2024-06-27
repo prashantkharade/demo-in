@@ -58,7 +58,7 @@ npm run build
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/movie-listing-web-app.git
+   https://github.com/prashantkharade/demo-in.git
    ```
 
 ## Features
